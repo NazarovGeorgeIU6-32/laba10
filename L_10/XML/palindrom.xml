@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+	<result>
+		<description>Result</description>
+		<type>Array</type>
+		<value type="array">
+			<value>123456</value>
+			<value>777777</value>
+		</value>
+	</result>
+	<text>
+		<decimal>
+			<type>String</type>
+			<value>decimal</value>
+		</decimal>
+		<binary>
+			<type>String</type>
+			<value>binary</value>
+		</binary>
+		<repeatcalculation>
+			<type>String</type>
+			<value>repeat_calculation</value>
+		</repeatcalculation>
+	</text>
+</hash>
